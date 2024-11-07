@@ -1,6 +1,3 @@
-Sure! Here's the updated version of the README with some added emojis for a more engaging look:
-
----
 
 ### Internet Search Assistant 🔎
 
