@@ -98,7 +98,7 @@ def run_workflow(query):
 
 # Streamlit app
 def main():
-    st.set_page_config(page_title="Internet Research Assistant 🔎", page_icon="🔎")
+    st.set_page_config(page_title="My Research Assistant 🔎", page_icon="🔎")
     st.title("My Research Assistant 🔎")
 
     # Initialize session state for query and article
