@@ -2,7 +2,7 @@ Sure! Here's the updated version of the README with some added emojis for a more
 
 ---
 
-#Internet Research Assistant 🔎
+### Internet Search Assistant 🔎
 
 This project provides a web-based application built with **Streamlit** that leverages several AI agents to perform web research, analysis, and article generation. Users can search the web, analyze results, and generate a polished article on any given topic.
 
