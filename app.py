@@ -99,7 +99,7 @@ def run_workflow(query):
 # Streamlit app
 def main():
     st.set_page_config(page_title="Internet Research Assistant 🔎", page_icon="🔎")
-    st.title("Internet Research Assistant 🔎")
+    st.title("My Research Assistant 🔎")
 
     # Initialize session state for query and article
     if 'query' not in st.session_state:
@@ -122,7 +122,7 @@ def main():
             st.rerun()
 
     # Generate article only when button is clicked
-    if st.button("Generate Article") and query:
+    if st.button("Generate") and query:
         with st.spinner("Generating article..."):
             # Get streaming response
             streaming_response = run_workflow(query)
