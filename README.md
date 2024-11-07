@@ -1,5 +1,5 @@
 
-### Internet Search Assistant 🔎
+### My Search Assistant 🔎
 
 This project provides a web-based application built with **Streamlit** that leverages several AI agents to perform web research, analysis, and article generation. Users can search the web, analyze results, and generate a polished article on any given topic.
 
