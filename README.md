@@ -79,6 +79,4 @@ This will start the app in your web browser, and you can begin entering search q
 - **Issue:** If search results aren't showing up, verify that the `duckduckgo_search` library is working correctly and returning results.
 - **Issue:** If the article is not generating, ensure that your OpenAI or model API is properly configured and that the correct model is set.
 
-### Contributing 🤝:
-Feel free to fork this project, submit issues, and create pull requests for any enhancements or fixes. All contributions are welcome!
 
