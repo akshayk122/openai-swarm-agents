@@ -40,10 +40,16 @@ pip install -r requirements.txt
 
 #### Step 3: Set up environment variables
 
-Create a `.env` file in the root directory of the project and include any necessary API keys (e.g., OpenAI API key):
+Create a `.env` file in the root directory of the project and include any necessary API keys (e.g., OpenAI API key) URL for Ollama server if you're running it locally:
 
 ```text
 OPENAI_API_KEY=your_openai_api_key_here
+```
+or 
+
+```text
+OPENAI_BASE_URL=http://localhost:11434/v1
+OPENAI_API_KEY=fake-key
 ```
 
 #### Step 4: Run the Streamlit app
